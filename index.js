@@ -1,3 +1,4 @@
+document.querySelector(".click").addEventListener("click",function(){
 var randomNumber1 = Math.floor(Math.random()*6) + 1;
 
 var randomNumber2 = Math.floor(Math.random()*6) + 1;
@@ -14,6 +15,7 @@ else if (randomNumber2 > randomNumber1) {
 }
 else {
     document.querySelector("h1").textContent = "Draw!"
+}
 }
 
 
