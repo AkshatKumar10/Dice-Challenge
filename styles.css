@@ -39,3 +39,14 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.click{
+ width:20vh;
+ height : 8vh; 
+ margin-left: 45%;
+ margin-top:40px;
+ font-size: 30px;
+ font-family:'Lobster', cursive;
+ background-color:brown;
+ color:whitesmoke;
+ border-radius: 10px;
+}
