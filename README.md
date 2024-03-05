@@ -11,7 +11,7 @@ This project is a Dice Challenge game implemented using HTML, CSS, and JavaScrip
 * JavaScript
   
 ### Demo:
-You can play the Dice Challenge here [Dice Game](http://127.0.0.1:5500/Dicee%20Challenge%20-%20Starting%20Files/dicee.html).
+You can play the Dice Challenge here [Dice Game](https://akshatkumar10.github.io/Dice-Challenge/).
 
 
 ### Usage:
