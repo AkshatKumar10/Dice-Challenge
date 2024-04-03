@@ -22,6 +22,4 @@ You can play the Dice Challenge here [Dice Game](https://akshatkumar10.github.io
 ### Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-###
 
-Replace "your-username" with your actual GitHub username and customize any other details as necessary.
