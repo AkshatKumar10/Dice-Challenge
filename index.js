@@ -1,4 +1,4 @@
-document.querySelector(".click").addEventListener("click",function(){
+document.querySelector(".btn").addEventListener("click",function(){
     var randomNumber1 = Math.floor(Math.random()*6) + 1;
     
     var randomNumber2 = Math.floor(Math.random()*6) + 1;
