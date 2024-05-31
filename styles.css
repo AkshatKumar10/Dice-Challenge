@@ -37,16 +37,26 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
+.btn{
+  width: 10%;
+  border-radius: 8px;
+  font-size:20px;
+  height:45px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #4ECCA3;
+  color: #232931;
+}
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.btn:hover {
+  background-color: #EEEEEE;
+  color: #232931;
+}
 
-}
-.click{
- width:20vh;
- height : 8vh; 
- margin-left: 45%;
- margin-top:40px;
- font-size: 30px;
- font-family:'Lobster', cursive;
- background-color:brown;
- color:whitesmoke;
- border-radius: 10px;
-}
